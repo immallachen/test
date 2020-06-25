@@ -3,11 +3,13 @@ a1,u1,Allow,1,Before
 a1,u2,Transform,1,Before
 a2,u3,Deny,1,Before
 a2,u4,Allow,1,Before
+a2,u2,Allow,1,Before
 a3,u5,Transform,1,Before
 a3,u1,Allow,1,Before
 a1,u1,Transform,1,After
 a1,u2,Deny,1,After
 a2,u3,Deny,1,After
+a2,u2,Deny,1,After
 a2,u4,Deny,1,After
 a3,u5,Transform,1,After
 a3,u1,Deny,1,After
