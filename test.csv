@@ -32,6 +32,6 @@ a5,u6,Transform,1,After
 a6,u3,Deny,1,After
 a6,u4,Transform,1,After
 a2,u7,Deny,1,After
-a2,u8,Allow,1,After
+a2,u8,Transform,1,After
 a4,u7,Transform,1,After
 a4,u8,Deny,1,After
